@@ -10,9 +10,9 @@ import json
 
 
 #all tokens
-BOT_USERNAME: Final = "@gpt_Chatsbot"
-openai.api_key = "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"
-TOKEN: Final = "6158021820:AAEL8xiWSctGq6-XeCXOCdj3O1WFc7TVq2w"
+BOT_USERNAME: Final = ""
+openai.api_key = ""
+TOKEN: Final = ""
 MODEL_NAME = "gpt-3.5-turbo"
 MAX_TOKENS = 193
 TEMPERATURE = 0
